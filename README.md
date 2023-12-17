@@ -2,7 +2,7 @@
 
 ![Wordle Clone](./src/assets/wordleBg.png)
 
-Welcome to my Wordle Clone project! This is a fully functional Wordle game clone which replicates most, if not all, of its classic features. This project was built for a tutorial on my [YouTube channel](https://www.youtube.com/@AleksPopovic/).
+Welcome to my Wordle Clone project! This is a fully functional Wordle game clone which replicates most, if not all, of its classic features. This project was built for a [tutorial on my YouTube channel](https://youtu.be/YmRS04CLarY).
 
 This Wordle Clone features:
 
